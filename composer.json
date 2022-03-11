@@ -1,14 +1,14 @@
 {
     "type": "library",
-    "name": "nguyenanhung/template-php-lib",
-    "description": "Template for repository helper, library - Basic, Simple and Lightweight",
+    "name": "nguyenanhung/nhanhvn-lib",
+    "description": "NhanhVN Services - Basic, Simple and Lightweight",
     "keywords": [
-        "template",
+        "nhanhvn",
         "helper",
         "library",
         "php"
     ],
-    "homepage": "https://github.com/nguyenanhung/template-php-lib",
+    "homepage": "https://github.com/nguyenanhung/nhanhvn-lib",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
@@ -20,11 +20,13 @@
         }
     ],
     "require": {
-        "php": ">=5.6"
+        "php": ">=5.6",
+        "ext-curl": "*",
+        "ext-json": "*"
     },
     "autoload": {
         "psr-4": {
-            "nguyenanhung\\Libraries\\TemplateREPLACE\\": "src/"
+            "nguyenanhung\\Services\\NhanhVN\\": "src/"
         },
         "files": [
             "helpers/helpers.php"
