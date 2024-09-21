@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/nhanhvn-lib/v)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib) [![Total Downloads](http://poser.pugx.org/nguyenanhung/nhanhvn-lib/downloads)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/nhanhvn-lib/v/unstable)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib) [![License](http://poser.pugx.org/nguyenanhung/nhanhvn-lib/license)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/nhanhvn-lib/require/php)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/nhanhvn-lib.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/nhanhvn-lib.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/nhanhvn-lib.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/nhanhvn-lib.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/nhanhvn-lib.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/nhanhvn-lib/php)](https://packagist.org/packages/nguyenanhung/nhanhvn-lib)
 
 # Nhanh.VN Library
 
